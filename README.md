@@ -1,3 +1,3 @@
-# Pasta do Projeto da Parte 1 comentada.
+![alt text](https://ibb.co/cDWNbn)
 
-Arquivo .aia do projeto parte 2. (THUNKABLE)
+
